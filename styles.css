@@ -9,8 +9,10 @@ html {
   font-size: 10px;
 }
 body {
-  background-color: rgb(37, 38, 39);
+  background-color: white;
   color: white;
+  background-image: url(https://citydadsgroup.com/wp-content/uploads/2020/05/lawnmomwer-yard-dads.jpg);
+  border-image: fill;
 }
 section {
   min-height: 100vh;
@@ -31,7 +33,7 @@ section {
   width: 90%;
   max-width: 500px;
   margin: 0 auto;
-  background-color: rgb(51, 55, 59);
+  background-color: green;
   border-radius: 8px;
   padding: 3rem;
   display: flex;
@@ -48,7 +50,7 @@ button {
   width: fit-content;
   padding: 2rem;
   font-size: 2rem;
-  background-color: rgb(25, 28, 29);
+  background-color: black;
   color: white;
   border: none;
   border-radius: 4px;
